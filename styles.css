@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    text-decoration: none;
 }
 .div-hotel{
     display: flex;
@@ -79,4 +80,49 @@ justify-content: space-between;
 }
 a{
     color: blue;
+}
+.div_img .red{
+    color: red;
+    font-weight: 900;
+}
+#button-div{
+    text-align: center;
+    margin: 2%;
+}
+#button{
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    background-color: #d23f57;
+    color: white;
+}
+#button-hotel{
+    text-align: center;
+    padding: 15px 200px 15px 200px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    background-color: #d23f57;
+    color: white;
+}
+.displays{
+    display: none;
+}
+.button{
+    text-align: center;
+    padding: 15px 200px 15px 200px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    background-color: #d23f57;
+    color: white;
+}
+.back{
+    padding: 20px;
+    border-radius: 10px;
+}
+.displaysBlock{
+    display: block;
 }
