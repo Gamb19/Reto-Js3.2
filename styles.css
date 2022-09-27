@@ -86,10 +86,9 @@ a{
     font-weight: 900;
 }
 #button-div{
-    text-align: center;
     margin: 2%;
 }
-#button{
+#button, #button-back{
     text-align: center;
     padding: 20px;
     border-radius: 10px;
